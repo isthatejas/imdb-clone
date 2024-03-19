@@ -1,0 +1,6 @@
+.App {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(180deg, rgb(0, 0, 0) 51%, rgba(92,18,24,1) 69%, rgba(240,10,10,1) 85%);
+  color: white;
+  font-family: 'Poppins';
+}
